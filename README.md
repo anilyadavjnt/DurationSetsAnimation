@@ -1,4 +1,3 @@
-
 # DurationSetsAnimation 🎬
 
 A simple iOS application demonstrating duration-based animations using Swift.
