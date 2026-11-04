@@ -43,13 +43,14 @@ Add your app screenshots here:
 
 ## 👨‍💻 Developer
 
-**Anil Kumar Yadav**
+**Anil Kumar Yadav**  
+iOS Developer
 
-iOS Developer | Swift | UIKit | iOS App Development
-
+- Gmail: anilyadavjnt@gmail.com
 - GitHub: https://github.com/anilyadavjnt
 - LinkedIn: https://linkedin.com/in/anilyadavjnt
+- Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
 
-⭐ If you find this project useful, don't forget to star the repository!
+If you find this project useful, feel free to explore the code and share feedback.
