@@ -1,3 +1,4 @@
+
 # DurationSetsAnimation 🎬
 
 A simple iOS application demonstrating duration-based animations using Swift.
@@ -18,7 +19,7 @@ DurationSetsAnimation is an iOS development project focused on exploring animati
 
 Add your app screenshots here:
 
-
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-04 at 23 07 47" src="https://github.com/user-attachments/assets/1d8a47cf-d59e-403d-bd7f-3f2c0c5fe3f2" />
 
 ## 🛠️ Technologies Used
 
