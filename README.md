@@ -18,9 +18,7 @@ DurationSetsAnimation is an iOS development project focused on exploring animati
 
 Add your app screenshots here:
 
-| App Screenshot 1 | App Screenshot 2 |
-|---|---|
-| ![Screenshot 1](Screenshots/screenshot1.png) | ![Screenshot 2](Screenshots/screenshot2.png) |
+
 
 ## 🛠️ Technologies Used
 
